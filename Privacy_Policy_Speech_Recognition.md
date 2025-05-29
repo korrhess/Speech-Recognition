@@ -1,7 +1,7 @@
 # Privacy Policy for Speech Recognition App
 
-**Effective Date:** 2025-05-29
-**Last Updated:** 2025-05-29
+**Effective Date:** 2025-05-29  
+**Last Updated:** 2025-05-29  
 
 ## 1. Introduction
 
@@ -11,12 +11,12 @@ By using our App, you agree to the collection and use of information in accordan
 
 ## 2. Developer Information
 
-**Developer:** Hess Lee
+**Developer:** Hess Lee  
 **Contact Email:** hess.lee70@gmail.com  
-**Address:** 범안로 130-27, 범박힐스테이트 502동 703호, 부천시, 소사구 - 14778, South Korea (KR)
-**Privacy Contact:** hess.lee70@gmail.com
+**Address:** 범안로 130-27, 범박힐스테이트 502동 703호, 부천시, 소사구 - 14778, South Korea (KR)  
+**Privacy Contact:** hess.lee70@gmail.com  
 
-For any privacy-related questions or concerns, please contact us at hess.lee70@gmail.com.
+For any privacy-related questions or concerns, please contact us at hess.lee70@gmail.com.  
 
 ## 3. Information We Collect
 
@@ -183,13 +183,13 @@ If you are a California resident, you have the right to:
 For questions about this Privacy Policy or our privacy practices, please contact us:
 
 **Email:** hess.lee70@gmail.com  
-**Postal Address:** 범안로 130-27, 범박힐스테이트 502동 703호, 부천시, 소사구 - 14778, South Korea (KR)
-**Response Time:** We will respond to privacy inquiries within 30 days
+**Postal Address:** 범안로 130-27, 범박힐스테이트 502동 703호, 부천시, 소사구 - 14778, South Korea (KR)  
+**Response Time:** We will respond to privacy inquiries within 30 days  
 
 ## 18. Data Protection Officer
 
 For EU residents, our Data Protection Officer can be contacted at:
-**Email:** hess.lee70@gmail.com
+**Email:** hess.lee70@gmail.com  
 
 ## 19. Compliance
 
