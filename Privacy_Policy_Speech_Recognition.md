@@ -202,4 +202,4 @@ This app and privacy policy comply with:
 
 ---
 
-**This privacy policy was last updated on 2025-05-29 and is available at [Insert URL].** 
+**This privacy policy was last updated on 2025-05-29 and is available at [[here]](https://korrhess.github.io/kaykay/Privacy_Policy_Speech_Recognition).** 
