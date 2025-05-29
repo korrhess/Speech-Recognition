@@ -71,3 +71,7 @@ English (US, UK, AU, CA, IN), Spanish (ES, MX, US), Chinese (CN, TW, HK), French
 **Download now and experience the future of voice-to-text technology!**
 
 *Requires Android 14 or higher. Internet connection required for translation features and initial language model downloads.*
+
+---
+
+**The privacy policy of this App is available at [[here]](https://korrhess.github.io/kaykay/Privacy_Policy_Speech_Recognition).** 
