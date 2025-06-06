@@ -108,7 +108,7 @@ This app is not directed to children under 13. We do not knowingly collect perso
 - **Notifications:** Displays service status during speech recognition
 
 ### 9.2 Permission Usage
-- **Microphone:** Only used for speech recognition; no recordings are made without your explicit action
+- **Microphone:** Only used for speech recognition
 - **Storage:** Only accessed when you choose to save files
 - **Notifications:** Only used to show speech recognition service status
 
@@ -128,7 +128,7 @@ These services are governed by Google's Privacy Policy. We recommend reviewing G
 
 ## 11. Data Retention
 
-- **Voice Data:** Audio is processed in real-time and not permanently stored by the app unless you explicitly save recordings
+- **Voice Data:** Audio is processed in real-time and not permanently stored by the app
 - **App Preferences:** Stored locally until you clear app data or uninstall the app
 - **Saved Files:** Retained until you manually delete them from your device
 - **Temporary Data:** Speech recognition data is processed temporarily and not retained
@@ -199,4 +199,4 @@ This app and privacy policy comply with:
 
 ---
 
-**This privacy policy was last updated on 2025-05-29 and is available at [[here]](https://korrhess.github.io/kaykay/Privacy_Policy_Speech_Recognition).** 
+**This privacy policy was last updated on 2025-05-29 and is available at [[here]](https://korrhess.github.io/kaykay/privacy).** 
