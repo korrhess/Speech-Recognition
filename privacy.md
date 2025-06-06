@@ -1,7 +1,7 @@
 # Privacy Policy for Speech Recognition App
 
-**Effective Date:** 2025-05-29  
-**Last Updated:** 2025-05-29  
+**Effective Date:** 2025-06-06  
+**Last Updated:** 2025-06-06  
 
 ## 1. Introduction
 
@@ -199,4 +199,4 @@ This app and privacy policy comply with:
 
 ---
 
-**This privacy policy was last updated on 2025-05-29 and is available at [[here]](https://korrhess.github.io/kaykay/privacy).** 
+**This privacy policy was last updated on 2025-06-06 and is available at [[here]](https://korrhess.github.io/kaykay/privacy).** 
