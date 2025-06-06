@@ -21,14 +21,11 @@ For any privacy-related questions or concerns, please contact us at hess.lee70@g
 ## 3. Information We Collect
 
 ### 3.1 Audio Data
-- **Voice recordings and speech data** captured through your device's microphone
+- **Speech data** captured through your device's microphone
 - **Spoken text** converted from your voice through speech recognition
-- **Audio files** that you choose to record and save through the app
 
 ### 3.2 Personal Preferences
 - **Language and region settings** for speech recognition and translation
-- **Translation preferences** and target languages
-- **App settings** such as auto-scroll and translation toggle states
 
 ### 3.3 Device Information
 - **Device permissions** status (microphone, storage, notifications)
@@ -45,7 +42,7 @@ For any privacy-related questions or concerns, please contact us at hess.lee70@g
 ### 4.1 Core App Functionality
 - **Speech Recognition:** Convert your voice to text in real-time
 - **Language Translation:** Translate recognized speech between different languages using Google ML Kit
-- **File Management:** Save transcribed text and audio recordings to your chosen locations
+- **File Management:** Save transcribed text to your chosen locations
 - **Settings Persistence:** Remember your language and app preferences
 
 ### 4.2 App Improvement
@@ -63,7 +60,7 @@ For any privacy-related questions or concerns, please contact us at hess.lee70@g
 ### 5.1 Local Processing
 - **On-Device Speech Recognition:** Primary speech processing occurs on your device using Android's built-in speech recognition
 - **Local Storage:** App preferences are stored locally on your device using Android SharedPreferences
-- **File Storage:** Transcribed text and audio recordings are saved to locations you specify on your device
+- **File Storage:** Transcribed texts are saved to locations you specify on your device
 
 ### 5.2 Third-Party Services
 - **Google ML Kit Translation:** Translation services are provided by Google ML Kit, which may process text data according to Google's privacy policy
@@ -81,18 +78,18 @@ We implement appropriate security measures to protect your information:
 - **Encryption in Transit:** Data transmitted to speech recognition and translation services uses secure encryption
 - **Local Storage Security:** App preferences and settings are stored securely on your device
 - **Permission Controls:** The app only accesses data with your explicit permission
-- **No Remote Storage:** We do not store your voice recordings or transcribed text on our servers
+- **No Remote Storage:** We do not store transcribed text on our servers
 
 ## 7. Your Rights and Choices
 
 ### 7.1 Data Control
-- **File Management:** You control where transcribed text and audio recordings are saved
+- **File Management:** You control where transcribed texts are saved
 - **Permission Management:** You can revoke microphone, storage, and notification permissions at any time
 - **Settings Control:** You can modify or reset app preferences within the app
 
 ### 7.2 Data Deletion
 - **Local Data:** You can clear app data through your device settings
-- **Saved Files:** You can delete any saved transcripts or recordings from your device storage
+- **Saved Files:** You can delete any saved transcripts from your device storage
 - **App Removal:** Uninstalling the app removes all locally stored app data
 
 ### 7.3 Account Management
@@ -105,9 +102,9 @@ This app is not directed to children under 13. We do not knowingly collect perso
 ## 9. Permissions and Data Access
 
 ### 9.1 Required Permissions
-- **Microphone (RECORD_AUDIO):** Required for speech recognition functionality
+- **Microphone:** Required for speech recognition functionality
 - **Foreground Service:** Enables continuous speech recognition
-- **Storage/File Access:** Allows saving transcribed text and audio recordings
+- **Storage/File Access:** Allows saving transcribed texts
 - **Notifications:** Displays service status during speech recognition
 
 ### 9.2 Permission Usage
